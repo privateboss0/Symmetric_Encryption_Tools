@@ -69,5 +69,3 @@ chmod +x securefile securetext
 
 cd $HOME/Cryptography
 wget https://github.com/privateboss0/Symmetric_Encryption_Tools
-chmod +x otp
-ln -sf $HOME/Cryptography/otp $HOME/SymmetricEncryption/otp
