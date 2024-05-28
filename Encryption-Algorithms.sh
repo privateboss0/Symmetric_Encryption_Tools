@@ -1,8 +1,18 @@
 #!/bin/bash
 
-#Install Searchable Symmetric Encryption Algorithms
-#2024 privateboss01
+#Some of the Cryptographic algorithms from my MIT project
+#packaged to a usable frontend tool for everyone
 
+# ------------------------------------------------------------------
+#
+#    Copyright (C) 2024 privateboss01
+#
+#    This tool is free software; you can redistribute it and/or
+#    modify it under the terms of Creative Commons Zero v1.0 Universal
+#
+# ------------------------------------------------------------------
+
+#Install Searchable Symmetric Encryption Algorithms
 #create directories if needed
 mkdir -p $HOME/Downloads
 mkdir -p $HOME/Cryptography
@@ -58,6 +68,6 @@ cd $HOME/SymmetricEncryption
 chmod +x securefile securetext
 
 cd $HOME/Cryptography
-wget https://raw.githubusercontent.com/km4ack/pi-scripts/master/otp
+wget https://github.com/privateboss0/Symmetric_Encryption_Tools
 chmod +x otp
 ln -sf $HOME/Cryptography/otp $HOME/SymmetricEncryption/otp
