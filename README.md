@@ -3,3 +3,5 @@ This is a packaged version of part of my MIT cryptography project with the secur
 This tool encrypt files and folders using a one-time-password to protect confidential files on your linux system.
 
 How to Install:
+
+1: From your home directory type [ wget https://github.com/privateboss0/Symmetric_Encryption_Tools ]
