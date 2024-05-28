@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Some of the Cryptographic algorithms from my MIT project
-#packaged to a usable frontend tool for everyone
+#packaged to a usable frontend tool for average users
 
 # ------------------------------------------------------------------
 #
